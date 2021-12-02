@@ -6,8 +6,8 @@ WiFiServer server(80); //Set a web server on port 80
 Servo myServo; //Servo nesnesi
 
 //WiFi credentials
-const char* ssid = "TP-Link_5E2F";
-const char* password = "B&b10541929";
+const char* ssid = "";
+const char* password = "";
 
 //Will store the HTTP header
 String header;
